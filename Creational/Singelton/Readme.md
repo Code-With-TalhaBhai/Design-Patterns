@@ -1,1 +1,1 @@
-This is an Object Pattern
+This is an Object Pattern. A Singleton pattern in python is a design pattern that allows you to create just one instance of a class, throughout the lifetime of a program. Using a singleton pattern has many benefits.
